@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1639401781 source:c:\derss\ee441\hw_source_codes\e2397123_hw2\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<string>
+	"student.h"
+	"section.h"
+	"waiting.h"
+
+1639185596 source:c:\derss\ee441\hw_source_codes\e2397123_hw2\src\myqueue.cpp
+	"myqueue.h"
+
+1639310761 c:\derss\ee441\hw_source_codes\e2397123_hw2\include\myqueue.h
+	<iostream>
+
+1639313406 source:c:\derss\ee441\hw_source_codes\e2397123_hw2\src\student.cpp
+	<iostream>
+	<string>
+	"student.h"
+	"section.h"
+
+1639401803 c:\derss\ee441\hw_source_codes\e2397123_hw2\include\student.h
+	<iostream>
+	<string>
+
+1639189171 source:c:\derss\ee441\hw_source_codes\e2397123_hw2\src\mystack.cpp
+	"iostream"
+	"mystack.h"
+
+1639313607 c:\derss\ee441\hw_source_codes\e2397123_hw2\include\mystack.h
+	<iostream>
+
+1639313581 source:c:\derss\ee441\hw_source_codes\e2397123_hw2\src\section.cpp
+	"iostream"
+	"section.h"
+
+1639309679 c:\derss\ee441\hw_source_codes\e2397123_hw2\include\section.h
+	<iostream>
+	"mystack.h"
+
+1639189584 c:\derss\ee441\hw_source_codes\e2397123_hw2\src\mystack.cpp
+
+1639190336 source:c:\derss\ee441\hw_source_codes\e2397123_hw2\src\waiting.cpp
+	"waiting.h"
+
+1639309697 c:\derss\ee441\hw_source_codes\e2397123_hw2\include\waiting.h
+	<myqueue.h>
+

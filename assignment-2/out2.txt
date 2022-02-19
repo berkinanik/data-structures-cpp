@@ -1,0 +1,17 @@
+Wednesdey:
+108
+101
+
+Thursday:
+102
+105
+106
+
+Friday:
+104
+109
+103
+
+Unassigned:
+107
+110

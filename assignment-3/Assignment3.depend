@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1643312400 source:c:\derss\ee441\hw_source_codes\e2397123_hw3\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"Node.h"
+	"LinkedListRQ.h"
+	"BSTNode.h"
+
+1643228291 c:\derss\ee441\hw_source_codes\e2397123_hw3\include\node.h
+
+1643304189 c:\derss\ee441\hw_source_codes\e2397123_hw3\include\linkedlistrq.h
+	<iostream>
+	"LLNode.h"
+
+1643232309 c:\derss\ee441\hw_source_codes\e2397123_hw3\include\llnode.h
+	"Node.h"
+
+1643312772 c:\derss\ee441\hw_source_codes\e2397123_hw3\include\bstnode.h
+	"Node.h"
+

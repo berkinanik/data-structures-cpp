@@ -1,0 +1,8 @@
+PID: 2  	finished execution at time 2
+PID: 1  	finished execution at time 6
+PID: 4  	finished execution at time 8
+PID: 3  	finished execution at time 9
+PID: 5  	finished execution at time 12
+
+14 nodes visited for searching
+2 nodes visited for insertion

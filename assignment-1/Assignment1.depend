@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1636589684 source:c:\derss\ee441\hw_source_codes\e2397123_hw1\src\student.cpp
+	"Student.h"
+	<iostream>
+	<string>
+
+1636588018 c:\derss\ee441\hw_source_codes\e2397123_hw1\include\student.h
+	<string>
+
+1636739953 source:c:\derss\ee441\hw_source_codes\e2397123_hw1\main.cpp
+	<iostream>
+	<string>
+	"Student.h"
+	"Course.h"
+
+1636589416 source:c:\derss\ee441\hw_source_codes\e2397123_hw1\src\course.cpp
+	<iostream>
+	"Course.h"
+	"Student.h"
+
+1636589753 c:\derss\ee441\hw_source_codes\e2397123_hw1\include\course.h
+	"Student.h"
+
+1636589416 source:c:\users\berkin\desktop\ders\programlama\cpp\data-structures-cpp\assignment-1\src\course.cpp
+	<iostream>
+	"Course.h"
+	"Student.h"
+
+1636589753 c:\users\berkin\desktop\ders\programlama\cpp\data-structures-cpp\assignment-1\include\course.h
+	"Student.h"
+
+1636588018 c:\users\berkin\desktop\ders\programlama\cpp\data-structures-cpp\assignment-1\include\student.h
+	<string>
+
+1636589684 source:c:\users\berkin\desktop\ders\programlama\cpp\data-structures-cpp\assignment-1\src\student.cpp
+	"Student.h"
+	<iostream>
+	<string>
+
