@@ -4,7 +4,7 @@ This is a repository for my data structures course assignments I completed durin
 There are three cpp console applications. I created the projects and did development using [Code::Blocks IDE](https://www.codeblocks.org/downloads/). Their Code::Blocks project files (*``cbp``*) are in the folders also.
 
 # Assignment Requirements and Instructions
-*These assignments' instructions credits to [**Middle East Technical University - Electrical - Electronics Engineering Department**](https://eee.metu.edu.tr/) and [**EE441 - Data Structures Course Lecturers**](https://catalog.metu.edu.tr/course.php?course_code=5670441).*
+*These assignments' instructions credit to [**Middle East Technical University - Electrical - Electronics Engineering Department**](https://eee.metu.edu.tr/) and [**EE441 - Data Structures Course Lecturers**](https://catalog.metu.edu.tr/course.php?course_code=5670441).*
 
 # Assignment 1
 ## Introduction
